@@ -1,1 +1,2 @@
-This is the simple maven template. 
+This is the simple maven template.
+Add a line. 
